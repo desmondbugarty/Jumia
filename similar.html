@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>similar</title>
+</head>
+<body>
+    
+
+  <script>
+ // 1. Prompt the user for their age
+let input = prompt("Please enter your age:");
+
+// 2. Convert the input string into an integer
+let age = parseInt(input, 10);
+
+// 3. Check for invalid inputs (e.g., non-numeric text or negative numbers)
+if (isNaN(age) || age < 0) {
+    alert("Invalid input! Please enter a valid non-negative number.");
+} 
+// 4. Determine the age group using conditional logic
+else if (age < 13) {
+    alert("You are a Child.");
+} else if (age <= 19) {
+    alert("You are a Teenager.");
+} else if (age <= 64) {
+    alert("You are an Adult.");
+} else {
+    alert("You are a Senior.");
+}
+
+   
+
+
+  </script>
+
+  <script src="js/style.js"></script>
+
+</body>
+</html>
