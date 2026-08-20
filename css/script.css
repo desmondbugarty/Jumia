@@ -1,0 +1,627 @@
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0px auto;
+    /* background-color: rgb(245, 243, 239); */
+   
+}
+.oli{
+    background-color: rgb(245, 243, 239);
+    height: 30px;
+    width: 100%;
+}
+.olin li{
+    list-style: none;
+    color: gray;
+    padding: 1rem;
+
+}
+.wind {
+   background-color: rgb(245, 243, 239);
+    display: flex;
+    width: 100%;
+    height: 270px;
+    margin-bottom: 1rem;
+    
+}
+
+.storm {
+    background-color:  white;
+
+    width: 33.333%;
+    height: 180px;
+    padding: 1rem;
+    margin: 20px;
+    right: 20px;
+    
+}
+
+.rain {
+    background-color: white;
+    width: 33.333%;
+    height: 180px;
+    padding: 1rem;
+     margin: 20px;
+     position: relative;
+     /* left: -60px; */
+     
+}
+.snow {
+    background-color:  white;
+    background-size: cover;
+    width: 33.333%;
+    height: 180px;
+    padding: 1rem;
+     margin: 20px;
+     position: relative;
+     /* right: 60px; */
+     
+}
+
+.flow{
+    background-color:rgb(206, 150, 150);
+   height: 60vh;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+.tide{
+    background-color: rgb(249, 154, 13);
+    width: 100%;
+    height: 45px;
+    border-radius: 5px 5px 0px 0px;
+      width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(62, 60, 60);
+   
+
+}
+.wave ul{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   list-style: none;
+   padding-top: 10px;
+   border-radius: 5rem;
+
+
+}
+
+
+
+
+.men{
+    background-color:rgb(206, 150, 150);
+   height: 60vh;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+.pres{
+    background-color: rgb(249, 154, 13);
+    width: 100%;
+    height: 45px;
+    border-radius: 5px 5px 0px 0px;
+      width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(62, 60, 60);
+   
+
+}
+.person ul{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   list-style: none;
+   padding-top: 10px;
+   border-radius: 5rem;
+
+
+}
+.contain{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.don{
+    background-color: rgb(245, 243, 239);
+    height: 10vh;
+}
+.bom{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: rgb(100, 94, 94);
+    padding-top: 10px;
+}
+.fon{
+    background-color:rgb(245, 243, 239);
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.com{
+    background-color: blue;
+    height: 200px;
+    width: 28%;
+
+
+}
+.com1{
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    display: flex;
+    border-radius: 0.2rem;
+
+} 
+.com2{
+     background-color: white;
+    height: 300px;
+    width: 20%;
+    margin-left: 10px;
+    border-radius: 0.2rem;
+    
+
+}
+.mon{
+    list-style: none;
+}
+
+
+.om button{
+    background-color: blue;
+    /* height: 10px;
+    width: 30px; */
+    padding: 7px 4px 7px 4px;
+    list-style: none;
+    margin-left: 5px;
+    margin-bottom: 4px;
+    text-align: center;
+    border: hidden;
+    border-radius: 0.2rem;
+    color: white;
+    
+   
+}
+
+.om{
+    list-style: none;
+    margin-top: 10px;
+}
+.obtain{
+     width: 90%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.dit{
+    background-color: rgb(245, 243, 239);
+    height: 10px;
+    width: 100%;
+}
+.edit{
+    background-color: rgb(251, 250, 248);
+    height: 300px;
+    width: 100%;
+    border-radius: 0.5rem;
+     display: flex;
+    justify-content: center;
+}
+
+.under{
+    
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.golf{
+    display: flex;
+    justify-content: center;
+}
+.golf button{
+   background-color: rgb(249, 154, 13);
+
+   
+    padding: 12px 15px 15px 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+    outline: none;
+    border-style: hidden;
+    border-radius: 0.2rem;
+    color: white;
+
+}
+.gob h4{
+    margin-left: 120px;
+    margin-top: 10px;
+
+}
+.gob p{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.git{
+    background-color: white;
+    height: 10px;
+    width: 100%;
+}
+.usb{
+    background-color: rgb(245, 243, 239);
+   height: 60vh;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+.abc{
+    background-color: rgb(245, 243, 239);
+    width: 100%;
+    height: 45px;
+    border-radius: 5px 5px 0px 0px;
+      width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(62, 60, 60);
+    
+   
+
+}
+.name ul{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   list-style: none;
+   padding-top: 10px;
+   border-radius: 5rem;
+
+
+}
+
+.ash{
+    background-color: rgb(245, 243, 239);
+   height: 60vh;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+.ford{
+    background-color: rgb(245, 243, 239);
+    width: 100%;
+    height: 45px;
+    border-radius: 5px 5px 0px 0px;
+      width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: rgb(62, 60, 60);
+    
+   
+
+}
+.nest ul{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   list-style: none;
+   padding-top: 10px;
+   border-radius: 5rem;
+
+
+}
+.half{
+    background-color: black;
+    height: 90px;
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 3px;
+    border-radius: 0.2rem;
+    border: 1px solid rgb(206, 150, 150);
+   
+}
+.quart{
+   background-color:white;
+    height: 90px;
+    width: 100%;
+    border-radius: 0.2rem;
+    border: 1px solid rgb(201, 31, 59); 
+}
+.fract{
+     background-color: rgb(201, 31, 59);
+    height: 30px;
+    width: 100%;
+    border-top-right-radius: 0.2rem;
+    border-top-left-radius: 0.2rem;
+   
+
+}
+.fract ul{
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: white;
+}
+.cut{
+    background-color:  rgb(249, 154, 13);
+    padding: 0px 100px 0px 100px;
+    border: hidden;
+    border-radius: 5rem;
+    margin-left: 5px;
+   
+}
+.rock p {
+    margin-left: 10px;
+    margin-top: 9px;
+
+}
+.rock h6{
+    margin-left: 10px;
+    margin-top: 9px;
+}
+.list ul{
+    list-style: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.zap{
+    background-color:  rgb(249, 154, 13);
+    height: 40px;
+    width: 100%;
+    border-radius: 0.2rem;
+    margin-top: 10px;
+    margin-left: 3px;
+   
+}
+.zap ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    color: white;
+
+}
+.zip li h5{
+    margin-top: 10px;
+     position: relative;
+  left: -70px;
+
+}
+.zip li span img{
+  margin-top: 7px;
+  position: relative;
+  left: -70px;
+    
+}
+.com2 p {
+    margin-left: 1px;
+}
+.com2 h6{
+    margin-left: 3px;
+}
+.com2{
+    padding-top: 5px;
+}
+.dice{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.ice{
+    margin-left: 10px;
+}
+
+.gab{
+     background-color:rgb(245, 243, 239);
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+.contain{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.don{
+    background-color: rgb(245, 243, 239);
+    height: 10vh;
+}
+.bom{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: rgb(100, 94, 94);
+    padding-top: 10px;
+}
+.fon{
+    background-color:rgb(245, 243, 239);
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.com{
+    background-color: blue;
+    height: 200px;
+    width: 28%;
+
+
+}
+.com1{
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    display: flex;
+    border-radius: 0.2rem;
+
+} 
+.com2{
+     background-color: white;
+    height: 300px;
+    width: 20%;
+    margin-left: 10px;
+    border-radius: 0.2rem;
+    
+
+}
+.mon{
+    list-style: none;
+}
+
+
+.om button{
+    background-color: blue;
+    /* height: 10px;
+    width: 30px; */
+    padding: 7px 4px 7px 4px;
+    list-style: none;
+    margin-left: 5px;
+    margin-bottom: 4px;
+    text-align: center;
+    border: hidden;
+    border-radius: 0.2rem;
+    color: white;
+    
+   
+}
+
+.om{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.half{
+    background-color: black;
+    height: 90px;
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 3px;
+    border-radius: 0.2rem;
+    border: 1px solid rgb(206, 150, 150);
+   
+}
+.quart{
+   background-color:white;
+    height: 90px;
+    width: 100%;
+    border-radius: 0.2rem;
+    border: 1px solid rgb(201, 31, 59); 
+}
+.fract{
+     background-color: rgb(201, 31, 59);
+    height: 30px;
+    width: 100%;
+    border-top-right-radius: 0.2rem;
+    border-top-left-radius: 0.2rem;
+   
+
+}
+.fract ul{
+      display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: white;
+}
+.cut{
+    background-color:  rgb(249, 154, 13);
+    padding: 0px 100px 0px 100px;
+    border: hidden;
+    border-radius: 5rem;
+    margin-left: 5px;
+   
+}
+.rock p {
+    margin-left: 10px;
+    margin-top: 9px;
+
+}
+.rock h6{
+    margin-left: 10px;
+    margin-top: 9px;
+}
+.list ul{
+    list-style: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.zap{
+    background-color:  rgb(249, 154, 13);
+    height: 40px;
+    width: 100%;
+    border-radius: 0.2rem;
+    margin-top: 10px;
+    margin-left: 3px;
+   
+}
+.zap ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    color: white;
+
+}
+.zip li h5{
+    margin-top: 10px;
+     position: relative;
+  left: -70px;
+
+}
+.zip li span img{
+  margin-top: 7px;
+  position: relative;
+  left: -70px;
+    
+}
+.com2 p {
+    margin-left: 1px;
+}
+.com2 h6{
+    margin-left: 3px;
+}
+.com2{
+    padding-top: 5px;
+}
+.dice{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.ice{
+    margin-left: 10px;
+}
+
+.gab{
+     background-color:rgb(245, 243, 239);
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+

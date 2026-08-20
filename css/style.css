@@ -14,7 +14,7 @@
 }
 
 .mine{
-    height: 60px;
+    height: 30px;
     background-color: rgb(245, 243, 239);
     display: flex;
     justify-content: space-around;
@@ -259,7 +259,7 @@
 
 .cook{
     background-color: whitesmoke;
-    height: 60vh;
+    height: 130vh;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -267,34 +267,33 @@
     background-color: rgb(249, 154, 13);
     width: 100%;
     height: 40px;
-    border-radius: 5px 5px 0px 0px;
-      width: 100%;
+    border-radius: 5px 5px 0px 0px;         
     max-width: 1200px;
     margin: 0px auto;
-   
-}
-.fame ul {
-    display: flex;
+     display: flex;
     justify-content: space-around;
-    align-items: center;
-    list-style: none;
-    color: black;
     padding-top: 10px;
+    list-style: none;
    
 }
 
-.cooked{
-    
-   display: flex;
-   flex-direction: row;
-   justify-content: space-around;
-   list-style: none;
 
+.live{
+    display: flex;
+    flex-direction: row;
+    column-gap: 60px;
+    padding-top: 10px;
+    justify-content: space-around;
+    list-style: none;
+    margin: 10px;
+}
+
+    
   
  
     
    
-}
+
 
 
 
